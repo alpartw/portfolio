@@ -1,0 +1,25 @@
+/* Dark mode styles */
+.dark-mode {
+    background: linear-gradient(45deg, #111, #333);
+}
+
+.dark-mode .profile-card {
+    background: #222;
+}
+
+.dark-mode .about {
+    background-color: #222;
+}
+
+.dark-mode .profile-details .intro h4,
+.dark-mode .profile-details .intro .social i,
+.dark-mode .profile-details .contact-info,
+.dark-mode .about h1,
+.dark-mode .about h2,
+.dark-mode .about p {
+    color: #ddd;
+}
+
+.dark-mode .download-btn {
+    background: linear-gradient(45deg, #333, #555);
+}
